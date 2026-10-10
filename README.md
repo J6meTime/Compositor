@@ -14,6 +14,8 @@ Adobe Photoshop costs too much, and tools like GIMP don't feel familiar enough t
 
 This is a **Chinese-localized fork** of the original [Compositor by Robbie Tilton](https://github.com/robbietilton/Compositor), with full Simplified Chinese (zh-Hans) localization using professional Photoshop CN terminology.
 
+![Compositor Main Interface](docs/screenshots/main-interface.png)
+
 ### Installation
 
 Download the latest release from [GitHub Releases](https://github.com/J6meTime/Compositor/releases/latest).
@@ -98,6 +100,8 @@ Compositor 是一款功能完整、免费开源的 macOS 图像编辑器，专�
 Adobe Photoshop 太贵，GIMP 等工具又不够顺手。Compositor 填补了这个空白——提供创建完美图像所需的全部工具，完全免费开源。
 
 本项目是 [Robbie Tilton 的原版 Compositor](https://github.com/robbietilton/Compositor) 的**简体中文汉化分支**，采用 Photoshop 中文版专业术语进行完整本地化（883 条翻译）。
+
+![Compositor 主界面](docs/screenshots/main-interface.png)
 
 ### 安装
 
