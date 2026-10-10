@@ -1,0 +1,31 @@
+# Build output
+dist/
+build/
+DerivedData/
+*.xcarchive
+*.dmg
+*.o
+
+# Xcode per-user state
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Signing material and secrets — never commit
+*.p12
+*.p8
+*.cer
+*.certSigningRequest
+.env
+
+# AI assistant working directories
+.workbuddy/
+.claude/
+
+# Localization scan reports (generated)
+localization-scan-report.txt
+
+# Build plans (personal)
+BUILD_PLAN.md
