@@ -8,9 +8,9 @@
 
 ## 项目说明 | About
 
-**中文**：Compositor 是一款功能完整的 macOS 图像编辑器，专为图像合成与照片后期处理设计，工作流程对标 Adobe Photoshop。本仓库是 [原作者 Robbie Tilton 的 Compositor](https://github.com/robbietilton/Compositor) 的**简体中文汉化版**，采用 Photoshop 中文版专业术语进行完整本地化（883 条翻译），适合中文用户使用。
+**中文**：Compositor 是一款功能完整的 macOS 图像编辑器，专为图像合成与照片后期处理设计，工作流程对标 Adobe Photoshop。本仓库是 [原作者 Robbie Tilton 的 Compositor](https://github.com/robbietilton/Compositor) 的**简体中文汉化版**——在原项目基础上新增完整的简体中文（zh-Hans）本地化，采用 Photoshop 中文版专业术语翻译了全部 883 条界面文本，让中文用户能够无障碍使用。
 
-**English**: Compositor is a full-featured macOS image editor for compositing and photo work, built around a Photoshop-style workflow. This is a **Simplified Chinese (zh-Hans) localized fork** of the [original Compositor by Robbie Tilton](https://github.com/robbietilton/Compositor), with 883 professionally translated strings using standard Photoshop CN terminology.
+**English**: Compositor is a full-featured macOS image editor for compositing and photo work, built around a Photoshop-style workflow. This repository is a **Simplified Chinese (zh-Hans) localized fork** of the [original Compositor by Robbie Tilton](https://github.com/robbietilton/Compositor) — adding complete Simplified Chinese localization on top of the original project, with all 883 UI strings professionally translated using standard Photoshop CN terminology, making the app fully accessible to Chinese-speaking users.
 
 ---
 
